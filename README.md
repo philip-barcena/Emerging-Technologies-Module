@@ -57,3 +57,8 @@ The ELIZA chatbot simulates a conversation with a therapist, responding to user 
 # Deployment
 The ELIZA chatbot is deployed to GitHub Pages and can be accessed via the following link:
 [ELIZA Chatbot on GitHub Pages](https://philip-barcena.github.io/Emerging-Technologies-Module/eliza/)
+
+# References
+[Regular expressions Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions)
+
+[RegEx101](https://regex101.com/)
